@@ -7,6 +7,11 @@
 - Manipulate objects
 - Manipulating the DOM
 
+## Context
+In this practice, an API containing jokes in English will be consumed.
+A lot of things were already pre-made.
+
+
 ## Process 
 ### Tecnologies
 For this project I used the technologies requested:
